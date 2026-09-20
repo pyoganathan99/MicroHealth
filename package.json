@@ -1,0 +1,26 @@
+{
+  "name": "microhealth",
+  "version": "1.0.0",
+  "description": "A web app with a collection of tools for health and wellness",
+  "homepage": "https://github.com/pyoganathan99/MicroHealth#readme",
+  "bugs": {
+    "url": "https://github.com/pyoganathan99/MicroHealth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyoganathan99/MicroHealth.git"
+  },
+  "license": "ISC",
+  "author": "pyoganathan99",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.20"
+  }
+}
